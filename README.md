@@ -1,4 +1,4 @@
-# KazanExpress test for Python developer 
+# UnicalExpress test for Python developer 
 Here lies the description and requirements of the test task for Python/Django Developer position applicants.
 
 ## Task goal
