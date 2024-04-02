@@ -1,3 +1,7 @@
+I have updated creating user by the command:
+- python3 manage.py create_staff_and_superusers
+  this creates super user and staff user with diffrent permissions
+  
 # UnicalExpress test for Python developer 
 Here lies the description and requirements of the test task for Python/Django Developer position applicants.
 
